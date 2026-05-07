@@ -1,7 +1,7 @@
 homepage: https://github.com/Found-Search-Marketing/openai-ads-measurement-pixel-gtm-template
 documentation: https://github.com/Found-Search-Marketing/openai-ads-measurement-pixel-gtm-template/blob/main/README.md
 versions:
-  - sha: 4e744ba4e37ec5ed4b419e95c6ab2b64994eaf98
+  - sha: 5fe77b62099aeb7a36f5f7eb6b7ce1c384a1309a
     changeNotes: |
       Initial release. Loads the OpenAI Ads Measurement Pixel SDK and sends
       standard or custom conversion events via oaiq("init") and
